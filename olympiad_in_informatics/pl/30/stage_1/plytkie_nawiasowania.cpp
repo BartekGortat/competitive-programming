@@ -1,4 +1,5 @@
 // https://szkopul.edu.pl/problemset/problem/KlznBqTfieN-sWvUfTD0BJdT/site/?key=statement
+// Result: 100/100
 
 #include <iostream>
 #include <list>
